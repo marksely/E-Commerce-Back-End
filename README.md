@@ -50,6 +50,10 @@
 
   npm test 
 
+  ## Video Link
+
+  https://watch.screencastify.com/v/tEq8cA7lYRmzeEE4Jmyj
+
   ## Questions 
 
   For more information about me checkout my github at https://github.com/marksely. For any questions regarding this repository 
